@@ -21,14 +21,23 @@ h4{
 	left:40%;
 	right:0%;
 	top:0%;
-	bottom:80%;
+	bottom:83%;
 	text-align:center;
 	color:white;
-	border: 1px solid black;
+	border: 2px solid black;
     background-color: red;
     padding:10px;
     font-family:"Comic Sans MS", cursive, sans-serif;
 }
+
+#c1{
+	background-color: blue;
+}
+
+#c2{
+	background-color:darkgreen;
+}
+
 
 
 
@@ -38,13 +47,13 @@ ul{
 }
 .gen{
 	position:relative;
-	width:97%;
+	width:98%;
 	float:left;
     font-family:"Comic Sans MS", cursive, sans-serif;
 	padding:10px;
-	border:1px solid black;
-	background-color: yellow;
-	margin:5px;
+	border:2px solid black;
+	background-color: #66CDAA;
+	margin:6px;
     position :relative;
 }
 
