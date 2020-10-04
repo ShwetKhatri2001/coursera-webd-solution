@@ -1,7 +1,7 @@
 
 # HTML , CSS and JAVASCRIPT for Webdevelopers (course on Coursera) assignments solutions :
 
-![Course Completion Certification](https://github.com/shwetkhatri2001/coursera-webd-solution/blob/master/Coursera HTML,CSS and JS For WebDevelopers Certificate.pdf)
+![Course Completion Certification](https://github.com/shwetkhatri2001/coursera-webd-solution/blob/master/Certificate.png)
 
 # WEEK-2 : 
 * Topic covered : Grid and Responsive Web- Page in HTML , CSS
